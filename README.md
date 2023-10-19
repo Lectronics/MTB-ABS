@@ -9,3 +9,4 @@ keep all of the code in the function that is written for the interrupt routine.
 4) My idea for the wheel speed sensor is to use a rotary encoder instead of an ABS ring to make the system more of a bolt-on system. 
 but if the rotary encoder doesn't work, there's always the tone ring route that is simple and 
 amazon makes it even cheaper!
+5) it seems like I will need a pump in the hydraulic circiut. That will be interesting!
