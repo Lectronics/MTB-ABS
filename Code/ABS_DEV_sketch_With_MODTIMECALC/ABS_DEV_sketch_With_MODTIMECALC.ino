@@ -3,6 +3,8 @@ int PSI = 13;
 int WSSin = 2;
 unsigned int clk[5];
 
+#include "ModTimeCalc.h"
+
 void setup()
 {
   pinMode(stop, OUTPUT);
